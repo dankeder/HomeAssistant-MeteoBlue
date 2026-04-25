@@ -1,6 +1,6 @@
 [project]
 name = "HomeAssistant-MeteoBlue"
-version = "0.1.0"
+version = "0.1.1"
 description = "MeteoBlue integration for Home Assistant"
 readme = "README.md"
 requires-python = ">=3.13.2"

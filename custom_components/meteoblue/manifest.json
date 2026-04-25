@@ -3,12 +3,11 @@
   "name": "MeteoBlue",
   "codeowners": [
     "@dankeder",
-    "@ludeeus"
   ],
   "config_flow": true,
   "documentation": "https://github.com/dankeder/HomeAssistant-MeteoBlue/blob/master/README.md",
   "iot_class": "cloud_polling",
   "issue_tracker": "https://github.com/dankeder/HomeAssistant-MeteoBlue/issues",
   "requirements": ["python-dateutil", "Pillow", "numpy"],
-  "version": "0.1.0"
+  "version": "0.1.1"
 }
