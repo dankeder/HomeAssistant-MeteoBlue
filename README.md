@@ -142,4 +142,3 @@ Set `METEOBLUE_USE_FAKE_CLIENT=1` before [scripts/run](scripts/run) to load
 ## 📄 License
 
 Licensed under the [Apache License, Version 2.0](LICENSE).
-test
