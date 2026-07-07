@@ -26,7 +26,7 @@ location through the UI.
 
 - Home Assistant **2026.3.2** or newer.
 - Python **3.14.2** or newer (matches the supported Home Assistant runtime).
-- A MeteoBlue API key from [my.meteoblue.com](https://my.meteoblue.com).
+- A MeteoBlue API key from [meteoblue.com](https://www.meteoblue.com/en/user/account/index). Create a free account, then go to Weather API → Setup/Configure → API Keys. Create a new API key (without shared secret) or copy the default API key. Enable the Forecast API and/or Imaging API, depending on your needs.
 
 ## 📦 Installation
 
