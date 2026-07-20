@@ -5,7 +5,7 @@ description = "MeteoBlue integration for Home Assistant"
 readme = "README.md"
 requires-python = ">=3.13.2"
 dependencies = [
-    "colorlog==6.10.1",
+    "colorlog==6.11.0",
     "homeassistant>=2025.3.0",
     "httpx",
     "isal>=1.8.0",
